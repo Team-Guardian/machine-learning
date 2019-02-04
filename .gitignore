@@ -4,3 +4,7 @@
 yolov2\.h5
 
 yolov2_anchors\.txt
+
+*.h5
+
+*.pyc
