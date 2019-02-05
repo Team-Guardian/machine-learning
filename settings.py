@@ -4,4 +4,5 @@ WIDTH = 608
 HEIGHT = 608
 
 MODEL_NAME = 'yolo.h5'
-FOLDER_NAME = "data"
+PROC_FOLDER_DATA = "proc_data"
+RAW_FOLDER_DATA = "data"

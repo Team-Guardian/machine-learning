@@ -7,7 +7,7 @@ from settings import MODEL_NAME
 
 def loss(true_y, pred_y):
     # Temporary placeholder, create the loss function here.
-    return tf.square(true_y, pred_y)
+    return tf.square(true_y + pred_y)
 
 
 # Takes a pre-trained model from yolov2

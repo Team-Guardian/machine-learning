@@ -1,0 +1,26 @@
+<annotation>
+	<folder>proc_data</folder>
+	<filename>0012.jpg</filename>
+	<path>D:\Github\machine-learning\proc_data\0012.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>608</width>
+		<height>608</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>solarpanels</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>50</xmin>
+			<ymin>68</ymin>
+			<xmax>559</xmax>
+			<ymax>577</ymax>
+		</bndbox>
+	</object>
+</annotation>
